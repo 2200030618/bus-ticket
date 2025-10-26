@@ -60,22 +60,4 @@ Blue Bus is a MERN Stack Bus Ticket Booking web application that allows you to b
 
 <br />
 
-## Glimpses of Blue Bus 🙈 :
-
-
-<table>
-  <tr>
-    <td><img src= /></td>
-    <td><img src="C:\Users\penam\OneDrive\Pictures\Screenshots\Screenshot 2025-10-26 065430.png" /></td>
-  </tr>
-  
-
-## Razorpay test payment Cards
-
-[Click here to use the razorpay testing payment methods](https://razorpay.com/docs/payments/payments/test-card-upi-details/)
-
-<br />
-
-
-
 
